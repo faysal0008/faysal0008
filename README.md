@@ -18,7 +18,7 @@ Skills: WordPress Designer / Shopify Expert / UI/UX Designer / HTML / Graphic / 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faysal0008&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/faysal0008)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=faysal0008)  
 
